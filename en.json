@@ -4,8 +4,8 @@
 
     "APP" : {
 
-        "NAME"    : "cismet Webterminal",
-        "VERSION" : "powered by Apache Guacamole 0.9.10-incubating",
+        "NAME"    : "Fujitsu Indonesia - Remote Terminal Access",
+        "VERSION" : "--INTERNAL USE--",
 
         "ACTION_ACKNOWLEDGE"        : "OK",
         "ACTION_CANCEL"             : "Cancel",
